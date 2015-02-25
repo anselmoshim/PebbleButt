@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Da Scrub Lords",
+    "longName": "PebbleButt",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/butt.png",
+                "name": "IMAGE_BUTT",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "PebbleButt",
+    "uuid": "6d17db75-9cdf-41de-8e45-50f6c1e252cb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
